@@ -1,0 +1,55 @@
+#filmsbg {
+    background-image: url('https://ecurrent.fit.edu/files/2017/11/star-wars-rpg-1401x788-bf5fde32-b497-4b52-8a6f-45aa36325018png.png');
+    background-size: 900px;
+    float: left;
+    margin-left: 12px;
+}
+
+#charactersbg {
+    background-image: url('https://s.yimg.com/ny/api/res/1.2/F7OajzYk3DBRt0FovIHJyw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjcwO2g9NDQ4/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/bf7654dcdb5caa8be7733efebb2e2ff6');
+    background-size: 300px;
+    float: left;
+    margin-left: 12px;
+}
+
+#spaceshipsbg {
+    background-image: url('http://ksassets.timeincuk.net/wp/uploads/sites/54/2017/11/Millenium-Falcon-920x518.jpg');
+    background-size: 300px;
+    float: left;
+    margin-left: 12px;
+}
+
+#vehiclesbg {
+    background-image: url('https://lumiere-a.akamaihd.net/v1/images/databank_podracer_01_169_89a8621d.jpeg?region=0%2C0%2C1560%2C878&width=768');
+    background-size: 350px;
+    float: left;
+    margin: 12px 0px 0px 12px;
+
+}
+
+#planetsbg {
+    background-image: url('https://vignette.wikia.nocookie.net/starwars/images/7/77/Jestefad.png/revision/latest?cb=20130208043311');
+    background-size: 400px;
+    float: left;
+    margin: 12px 0px 0px 12px;
+}
+
+#speciesbg {
+    background-image: url('http://media.moddb.com/images/groups/1/7/6185/fig4_large.gif');
+    background-size: 300px;
+    float: left;
+    margin: 12px 0px 0px 12px;
+}
+
+.ahome {
+    color: white;
+}
+
+.phome {
+    color: white;
+    margin: 50px;
+}
+
+#epiv {
+    background-image: url('http://static.cinebel.be/img/movie/poster/full/1223_fr_star_wars___episode_4__la_guerre_des_etoiles_1316176450826.jpg');
+}
