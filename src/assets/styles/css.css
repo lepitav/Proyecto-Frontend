@@ -42,14 +42,17 @@
 }
 
 .ahome {
-    color: white;
+    color: White;;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;;
 }
 
 .phome {
     color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;;
     margin: 50px;
 }
 
 #epiv {
     background-image: url('http://static.cinebel.be/img/movie/poster/full/1223_fr_star_wars___episode_4__la_guerre_des_etoiles_1316176450826.jpg');
 }
+

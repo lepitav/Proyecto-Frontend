@@ -13,7 +13,7 @@ File: Layout CSS
 
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
-.row0, .row0 a{}
+.row0, .row0 a{display: none;}
 .row1, .row1 a{}
 .row2{border:solid; border-width:1px 0;}
 .row3, .row3 a{}
@@ -23,7 +23,7 @@ File: Layout CSS
 
 /* Top Bar
 --------------------------------------------------------------------------------------------------------------- */
-#topbar{padding:5px 0; font-size:12px;}
+#topbar{padding:5px 0; font-size:12px; display: none;}
 
 #topbar .fl_left{margin-top:4px;}
 #topbar .fl_left .inline > li i{margin:0 5px 0 0; line-height:normal;}
@@ -307,7 +307,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#58BA2B;}
 .row0 a:hover{color:#58BA2B;}
 .row1, .row1 a{}
 .row2{color:#FFFFFF; background-color:rgba(0,0,0,.5); border-color:rgba(255,255,255,.15);}
-.row3{color:#888888; background-color:#FFFFFF;}
+.row3{color:#888888; background-image: url('https://i.ytimg.com/vi/g54KvnPWdO8/maxresdefault.jpg'); background-size: 1230px;}
 .row4{color:#AAAAAA; background-color:rgba(15,15,15,.8);}/* #0F0F0F */
 .row5, .row5 a{color:#AAAAAA; background-color:rgba(36,36,36,.8);/* #242424 */}
 .row5 a{background-color:transparent;}

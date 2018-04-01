@@ -59,8 +59,8 @@
           <div class="elementinfo">
             <a href="#" class="ahome">
               <h2>PERSONAJES</h2>
-            </a>
               <p class="phome">Listado de cada personaje de Star Wars, con sus atributos fisicos, planetas natales, vehiculos y naves correspondientes.</p>
+            </a>
           </div>
         </article>
       </li>
@@ -69,8 +69,8 @@
           <div class="elementinfo">
             <a href="#" class="ahome">
               <h2>CRUCEROS ESPACIALES</h2>
-            </a>
               <p class="phome">Listado de cruceros espaciales de Star Wars, con sus fabricantes, capacidad de carga, precios y tamaños.</p>
+              </a>
           </div>
         </article>
       </li>
@@ -79,8 +79,8 @@
           <div class="elementinfo">
             <a href="#" class="ahome">
               <h2>VEHICULOS</h2>
-            </a>
               <p class="phome">Listado de cada vehiculo de Star Wars, con sus fabricantes, capacidad de carga, precios y tamaños correspondientes.</p>
+            </a>
           </div>
         </article>
       </li>
@@ -89,8 +89,8 @@
           <div class="elementinfo">
             <a href="#" class="ahome">
               <h2>PLANETAS</h2>
-            </a>
               <p class="phome">Listado de los planetas de Star Wars, con sus climas, fechas de creacion, diametros, gravedad, etc.</p>
+            </a>
           </div>
         </article>
       </li>
@@ -99,8 +99,8 @@
           <div class="elementinfo">
             <a href="#" class="ahome">
               <h2>ESPECIES</h2>
-            </a>
               <p class="phome">Listado de las especies extraterrestres de Star Wars, con sus atributos fisicos promedio, planetas natales, etc.</p>
+            </a>
           </div>
         </article>
       </li>
@@ -342,6 +342,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0px;
 }
 </style>
